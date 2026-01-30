@@ -12,7 +12,7 @@ dependencies:
   build: ^4.0.1
   source_gen: ^4.0.1
   _fe_analyzer_shared: ^94.0.0
-  analyzer: ^10.0.2
+  analyzer: ^10.0.1
   path: ^1.8.1
   build_runner: ^2.7.0
   code_builder: ^4.10.1

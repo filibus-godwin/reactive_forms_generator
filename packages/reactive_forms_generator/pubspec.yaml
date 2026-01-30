@@ -1,6 +1,6 @@
 name: reactive_forms_generator
 description: Generator for reactive_forms. Generates form classes based on model.
-# repository: https://github.com/artflutter/reactive_forms_generator
+repository: https://github.com/artflutter/reactive_forms_generator
 
 version: 7.5.0-beta1
 
@@ -11,8 +11,8 @@ resolution: workspace
 dependencies:
   build: ^4.0.1
   source_gen: ^4.0.1
-  _fe_analyzer_shared: ^92.0.0
-  analyzer: ^9.0.0
+  _fe_analyzer_shared: ^94.0.0
+  analyzer: ^10.0.2
   path: ^1.8.1
   build_runner: ^2.7.0
   code_builder: ^4.10.1
